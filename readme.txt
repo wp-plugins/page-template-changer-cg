@@ -16,8 +16,8 @@ This plugin allows for the changing of a page's template between two given speci
 
 == Installation ==
 
-Upload the zip file as instructed under plugins -> add new -> upload
-Then under the customize -> appearance menu option, setup the plugin.
+Upload the zip file as instructed under plugins -> add new -> upload. <br>
+Then under the customize -> appearance menu option -> Page Template Changer, setup the plugin.
 
 == Screenshots ==
 
