@@ -21,7 +21,7 @@ Then under the customize -> appearance menu option, setup the plugin.
 
 == Screenshots ==
 
-1. screenshot.JPG
+1. Screenshot.JPG
 
 == Frequently Asked Questions ==
 
