@@ -2,8 +2,8 @@
 Contributors: jebzaki
 Donate link: www.cavedgeeks.com
 Tags: page, change
-Requires at least: 3.0.1
-Tested up to: 3.4
+Requires at least: 4.0
+Tested up to: 4.0
 Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -21,7 +21,7 @@ Then under the customize -> appearance menu option, setup the plugin.
 
 == Screenshots ==
 
-1. screenshot.jpg
+1. screenshot.JPG
 
 == Frequently Asked Questions ==
 
