@@ -3,7 +3,7 @@
 Plugin Name: Page Template Changer (Caved Geeks)
 Plugin URI: www.cavedgeeks.com
 Description: This plugin allows for the changing of a page's template between two given specified times.
-Version: 0.1
+Version: 0.1.1
 Author: Rashid	
 Author URI: www.cavedgeeks.com
 License: GPL2 
@@ -178,8 +178,13 @@ License: GPL2
 						<?php
 							$tzlist = DateTimeZone::listIdentifiers(DateTimeZone::ALL);
 
+							echo '<option value="America/New_York">Eastern - America/New_York</option>';
+							echo '<option value="America/Chicago">Central - America/Chicago</option>';
+							echo '<option value="America/Los_Angeles">Pacific - America/Los_Angeles</option>';
+
+							$tzlist = array_diff($tzlist, array('America/New_York', 'America/Chicago', 'America/Los_Angeles'));
 							foreach( $tzlist as $tz){
-								echo '<option value="'.$tz.'">'.$tz.'</option>';
+									echo '<option value="'.$tz.'">'.$tz.'</option>';
 							}
 
 						?>
