@@ -3,8 +3,8 @@ Contributors: jebzaki
 Donate link: www.cavedgeeks.com
 Tags: page, change
 Requires at least: 4.0
-Tested up to: 4.0
-Stable tag: 4.3
+Tested up to: 4.1.1
+Stable tag: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,7 +17,7 @@ This plugin allows for the changing of a page's template between two given speci
 == Installation ==
 
 Upload the zip file as instructed under plugins -> add new -> upload. <br>
-Then under the customize -> appearance menu option -> Page Template Changer, setup the plugin.
+Then under Appearance -> Customize -> Page Template Changer then setup the plugin.
 
 == Screenshots ==
 
