@@ -24,9 +24,9 @@ License: GPL2
 		error_reporting(-1);
 		*/
 
-		$page_check = get_option('page_selected');
+		$page_selected = get_option('page_selected');
 
-		if ( is_front_page() ) {
+		if ( is_page($page_selected ) ) {
 			//check if the function is enabled
 			$enabled = get_option('page_template_enabled');
 
