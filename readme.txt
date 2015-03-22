@@ -16,8 +16,8 @@ This plugin allows for the changing of a page's template between two given speci
 
 == Installation ==
 
-Upload the zip file as instructed under plugins -> add new -> upload. <br>
-Then under the Appearance -> Customize then under the heading "Page Template Changer", setup the plugin.
+Upload the zip file as instructed under plugins -> add new -> upload <br>
+Then under the settings menu you will find the settings page for Page Template Changer.
 
 == Screenshots ==
 
@@ -28,6 +28,9 @@ Then under the Appearance -> Customize then under the heading "Page Template Cha
 Email us any questions you might have
 
 == Changelog ==
+
+= 0.1.2 =
+Moved settings for plugin to the Settings menu option instead of Customize
 
 = 0.1.1 =
 Put 3 popular time zones at the top of the drop down
