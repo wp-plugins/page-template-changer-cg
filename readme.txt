@@ -29,6 +29,9 @@ Email us any questions you might have
 
 == Changelog ==
 
+= 0.1.3 = 
+Major functionality fix
+
 = 0.1.2 =
 Moved settings for plugin to the Settings menu option instead of Customize
 
