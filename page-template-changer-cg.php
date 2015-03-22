@@ -3,7 +3,7 @@
 Plugin Name: Page Template Changer (Caved Geeks)
 Plugin URI: www.cavedgeeks.com
 Description: This plugin allows for the changing of a page's template between two given specified times.
-Version: 0.1.1
+Version: 0.1.2
 Author: Rashid	
 Author URI: www.cavedgeeks.com
 License: GPL2 
