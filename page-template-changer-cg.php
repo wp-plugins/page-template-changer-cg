@@ -26,7 +26,7 @@ License: GPL2
 
 		$page_check = get_theme_mod('page_selected');
 
-		if ( is_front_page() ) {
+		if ( is_page($page_check) ) {
 			//check if the function is enabled
 			$enabled = get_theme_mod('page_template_enabled');
 
